@@ -1,0 +1,4 @@
+﻿  Dice Roller.c
+D:\CS211\CS 211 Notes\Dice Roller\Dice Roller.c(30,12): warning C4129: 'e': unrecognized character escape sequence
+D:\CS211\CS 211 Notes\Dice Roller\Dice Roller.c(38,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Dice Roller.vcxproj -> D:\CS211\CS 211 Notes\Dice Roller\x64\Debug\Dice Roller.exe
